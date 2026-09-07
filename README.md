@@ -1,5 +1,13 @@
-# luckygoogle
+# Lucky Google
 
 ![Settings Window](https://github.com/jovanshernandez/luckygoogle/blob/master/luckygoogle-screenshot.png?raw=true)
 
-A python script that takes user input and opens the top 5 Google search results, each in a new tab.
+Python script that takes a search query and opens the top five Google results in separate browser tabs.
+
+## Usage
+
+Run the script locally with Python and enter a search query when prompted.
+
+## Notes
+
+Search page structure can change over time, so scraping behavior may need updates if Google changes its markup.
